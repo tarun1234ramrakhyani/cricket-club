@@ -1,0 +1,79 @@
+body{
+	background-color:coral;
+	padding:15px;
+}
+#container{
+	background-image: url('homepagebg.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:1200px;
+	height:710px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#header
+{
+	background-color:#C1FF33;
+	text-align:center;
+	color:#33D4FF;
+	padding:5px;
+}
+
+#nav{
+	height:50px;
+	padding:0px;
+	width:1200px;
+}
+ ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color:#E933FF;
+	height:30px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#3349FF;
+    text-align:center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color:white;
+}
+
+
+
+#batchheader{
+	color: white;
+ 
+}
+	
+
+
+
+
+#footer{
+	height:20px;
+	margin-top:28px;
+	padding:9px;
+	text-align:center;
+	background-color:brown;
+}
+#notice{
+	margin-top:-16px;
+	height:50px;
+	background-color:#F3FF33;
+	color:red;
+}
+marquee{
+color:black;
+}
